@@ -6,3 +6,5 @@ input$$.addEventListener('input', consola);
 function consola(inputFrase){
     console.log(inputFrase.target.value);
 }
+
+//revisado

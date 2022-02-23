@@ -17,3 +17,5 @@ for (const toy of toys) {
 }
 
 console.log(popularToys);
+
+//revisado
